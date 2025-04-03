@@ -1,0 +1,2 @@
+svg_icon_link = https://lucide.dev/icons/categories#social;
+
